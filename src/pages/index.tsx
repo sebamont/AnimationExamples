@@ -1,4 +1,4 @@
-export {default as BasicReanimated} from './BasicReanimated';
+export {default as BasicExample} from './BasicReanimated';
 export {default as CircularProgressBar} from './CircularProgressBar';
 export {default as ClockSpinner} from './ClockSpinner';
 export {default as ColorPicker} from './ColorPickerWInterpolation';

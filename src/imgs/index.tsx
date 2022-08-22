@@ -1,4 +1,4 @@
-export const BasicReanimated = require('./BasicReanimated.gif');
+export const BasicExample = require('./BasicReanimated.gif');
 export const CircularProgressBar = require('./CircularProgressBar.gif');
 export const ClockSpinner = require('./ClockSpinner.gif');
 export const ColorPicker = require('./ColorPicker.gif');
