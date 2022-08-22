@@ -21,4 +21,5 @@ When that's ready, ```yarn ios``` should sort you out.
 ## React native general docs
 https://reactnative.dev/docs/getting-started
 
-
+## Screenshot
+![Simulator Screen Recording - iPhone 13 - 2022-08-22 at 16 50 40](https://user-images.githubusercontent.com/46201240/185857371-663a868d-a212-4d71-8ed2-ffdaca2a014e.gif)
