@@ -1,7 +1,7 @@
 # Animation and Gestures Examples
 
 ## Project Description
-Showcase some animations and gestures inspired in different online courses. Most of them made usin with the porpouse of understanding [React-Native-Gesture-Hadler](https://github.com/software-mansion/react-native-gesture-handler) and [React-Native-Reanimated](https://github.com/software-mansion/react-native-reanimated).
+Showcase some animations and gestures inspired in different online courses. Most of them made with the porpouse of understanding [React-Native-Gesture-Hadler](https://github.com/software-mansion/react-native-gesture-handler) and [React-Native-Reanimated](https://github.com/software-mansion/react-native-reanimated).
 
 
 ## Project setup
