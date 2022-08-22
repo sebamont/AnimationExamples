@@ -11,4 +11,5 @@ export {default as SlideWithCounter} from './SlideWithCounter';
 export {default as SpringToCenter} from './SpringToCenterUnlessOutsideTheCircle';
 export {default as SwipeToDelete} from './SwipeToDelete';
 export {default as TapAndDoubleTapOnSameElement} from './TapAndDoubleTapOnSameElement';
+export {default as TinderSwipe} from './TinderSwipe';
 export {default as ToggleThemeWInterpolateColor} from './ToggleThemeWInterpolateColor';

@@ -11,4 +11,5 @@ export const SlideWithCounter = require('./SlideWithCounter.gif');
 export const SpringToCenter = require('./SpringToCenter.gif');
 export const SwipeToDelete = require('./SwipeToDelete.gif');
 export const TapAndDoubleTapOnSameElement = require('./TapAndDoubleTapOnSameElement.gif');
+export const TinderSwipe = require('./TinderSwipe.gif');
 export const ToggleThemeWInterpolateColor = require('./ToggleThemeWInterpolateColor.gif');

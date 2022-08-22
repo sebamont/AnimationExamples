@@ -38,7 +38,7 @@ interface CardProps {
 
 const ExampleCard: FC<CardProps> = ({name, navigation}) => {
   // @ts-ignore
-  const imgSource = ImagePaths[name];
+  const imgSource = ImagePaths[name] || require('../imgs/BasicReanimated.gif');
   return (
     <TouchableOpacity
       style={styles.cardContainer}
